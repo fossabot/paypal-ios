@@ -1,4 +1,6 @@
 # PayPal iOS SDK
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-ios.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-ios?ref=badge_shield)
+
 
 Welcome to PayPal's iOS SDK. This library will help you accept card, PayPal, Venmo, and alternative payment methods in your iOS app.
 
@@ -61,3 +63,7 @@ This SDK follows [Semantic Versioning](https://semver.org/). The release process
 ## Analytics
 
 Client analytics will be collected via Lighthouse/FPTI.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-ios.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-ios?ref=badge_large)
